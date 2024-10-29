@@ -27,7 +27,7 @@ body {
     display: flex;
     justify-content: space-between; /* Space between images */
     align-items: flex-start;
-    padding: 0 60px; /* Left and right margin for the box */
+    padding: 0 225px; /* Left and right margin for the box */
 }
 
 .image {
@@ -35,9 +35,10 @@ body {
     height: 500px;
     cursor: pointer;
     margin-top: 0; /* No top margin, handled by background box */
-    margin-left:225px;
+    ;
 }
 
 .image:not(:last-child) {
     margin-right: 30px; /* Space between images */
+    margin-left:225px;/* Soace between background-box*/
 }
