@@ -29,7 +29,7 @@ width:360px;
     display: flex;
     justify-content: space-between; /* Space between images */
     align-items: flex-start;
-    padding: 0 5px; /* Left and right margin for the box */
+    padding: 0 30px; /* Left and right margin for the box */
 
 }
 
