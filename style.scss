@@ -4,6 +4,7 @@
 
 body {
     margin: 0;
+    padding;0 30px;
     height: 700px;
     width:360px;
     background-image: url('background-image.jpg'); // Replace with your image URL
@@ -21,14 +22,14 @@ body {
 }
 
 .background-box {
-    width: 360px;
+    width: 350px;
     height: 400px;
     margin-top: 300px;
     
     display: flex;
     justify-content: space-between; // Space between images
     align-items: flex-start;
-    padding: 0 30px; // Left and right margin for the box
+    padding: 0 1px; // Left and right margin for the box
 }
 
 .image {
