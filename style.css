@@ -21,9 +21,9 @@ body {
 
 .background-box {
     width: 360px;
-    height: 220px;
+    height: 400px;
     margin-top: 300px;
-    margin-bottom: 100px;
+   
     display: flex;
     justify-content: space-between; /* Space between images */
     align-items: flex-start;
