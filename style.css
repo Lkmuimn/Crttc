@@ -5,7 +5,7 @@
 body {
     margin: 0;
 width:360px;
-
+padding:0 30px;/*left and right margin for the body*/
     height: 700px;
     background-image: url('background-image.jpg'); /* Replace with your image URL */
     background-size: cover;
@@ -22,14 +22,14 @@ width:360px;
 }
 
 .background-box {
-    width: 360px;
+    width: 350px;
     height: 400px;
     margin-top: 300px;
    
     display: flex;
     justify-content: space-between; /* Space between images */
     align-items: flex-start;
-    padding: 0 30px; /* Left and right margin for the box */
+    padding: 0 1px; /* Left and right margin for the box */
 
 }
 
