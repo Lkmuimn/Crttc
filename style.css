@@ -20,7 +20,7 @@ body {
 
 .image-box {
   
-    padding: 300px 50px; /* Optional padding around images */
+    padding: 600px 50px; /* Optional padding around images */
     margin: 5px; /* Space between images */
 }
 
@@ -28,4 +28,5 @@ body {
     width: 35vw; /* Full width */
     height: auto; /* Maintain aspect ratio */
     max-height: 50vh; /* Limit height to avoid overflow */
+    margin-left:50px;
 }
