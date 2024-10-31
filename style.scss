@@ -1,5 +1,7 @@
 body {
     margin: 0;
+    height:700px;
+    width:360px;
     height: 100vh;
     background-image: url('background.jpg'); // Replace with your background image
     background-size: cover; // Cover the entire body
@@ -16,11 +18,11 @@ body {
 
         .image-box {
             
-            padding: 10px; // Optional padding around images
+            padding: 200px; // Optional padding around images
             margin: 10px; // Space between images
 
             .center-image {
-                width: 100vw; // Full width
+                width: 35vw; // Full width
                 height: auto; // Maintain aspect ratio
                 max-height: 50vh; // Limit height to avoid overflow
             }
