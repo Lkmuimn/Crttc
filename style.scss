@@ -17,7 +17,7 @@ body {
         align-items: center;
 
         .image-box {
-            
+        margin-top:400px;
             padding: 5px; // Optional padding around images
             margin: 5px; // Space between images
 
@@ -25,7 +25,7 @@ body {
                 width: 35vw; // Full width
                 height: auto; // Maintain aspect ratio
                 max-height: 50vh; // Limit height to avoid overflow
-                margin-left:200px;
+                margin-left:250px;
                 margin-top:400px;
             }
         }
